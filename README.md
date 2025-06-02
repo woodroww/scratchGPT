@@ -1,8 +1,6 @@
 # Let's build GPT: from scratch, in code, spelled out.
 Following a video by Andrej Karpathy 
 
-Neural Networks: Zero to Hero
-
 ## Andrej Karpathy
 [karpathy.ai](https://karpathy.ai)
 [YouTube video](https://youtu.be/kCc8FmEb1nY?si=gUOF5-XK0EAIcP-b&t=491)
